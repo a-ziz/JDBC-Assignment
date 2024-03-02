@@ -34,6 +34,7 @@ class Main2 {
     // make connectionfactory constructor private
     // singleton design pattern - no more than 1 obj
 
+    // multiple connection string obj
 //    Connection c1 = ConnectionFactory.getConnection();
 //    Connection c2 = ConnectionFactory.getConnection();
 //    Connection c3 = ConnectionFactory.getConnection();
